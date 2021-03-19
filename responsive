@@ -1,0 +1,48 @@
+@media all and (max-width: 670px) {
+  .header-right {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  .top-wrapper {
+    width: 100%;
+  }
+  
+  
+  top-text {
+    text-align: left;
+    font-size: 17px;
+  }
+
+  top-text p {
+    text-align: left;
+    font-size: 12px;
+  }
+
+  .btn-wrapper {
+    text-align: center;
+  }
+
+  .facebook {
+    margin-bottom: 10px;
+  }
+
+  .twitter {
+    margin-bottom: 10px;
+  }
+
+  .movie {
+    width: 100%;
+  }
+
+  h2 {
+    font-size: 15px;
+  }
+
+  .message {
+    width: 100%;
+  }
+}
